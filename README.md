@@ -42,10 +42,11 @@ python downstream_with_crf.py
 
 # Citation
 If you use these models in your research, please cite:
-
+```
 @article{Zhao2020,  
 	author = {Aite Zhao and Junyu Dong and Huiyu Zhou},  
 	title = {Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition},  
 	journal = {IEEE ACCESS},  
 	year = {2020}  
 }  
+```
