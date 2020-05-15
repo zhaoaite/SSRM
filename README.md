@@ -1,7 +1,7 @@
 # SSRM
 Self-Supervised Sleep Recognition Model
 
-This is the code for the paper in title "Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition", IEEE ACCESS
+This is the code for the paper in title "Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition", IEEE ACCESS  
 Authors: Aite Zhao, Junyu Dong and Huiyu Zhou
 
 # Abstract
@@ -10,11 +10,14 @@ Sleep recognition refers to detection or identification of sleep posture, sleep 
 
 
 # Dateset
-The sleep dataset can be downloaded in 
-Sleep Bioradiolocation Database: https://www.physionet.org/content/sleepbrl/1.0.0/
-PSG: https://www.physionet.org/content/sleep-accel/1.0.0/
-Pressure Map Dataset: https://www.physionet.org/content/pmd/1.0.0/
-Please refer to the preprocessing and other details on these three dataset.
+The sleep dataset can be downloaded in  
+Sleep Bioradiolocation Database: https://www.physionet.org/content/sleepbrl/1.0.0/  
+ 
+PSG: https://www.physionet.org/content/sleep-accel/1.0.0/   
+
+Pressure Map Dataset: https://www.physionet.org/content/pmd/1.0.0/  
+
+Please refer to the preprocessing and other details on these three dataset.  
 
 # Requirements
 + python >= 3.5
@@ -42,9 +45,9 @@ python downstream_with_crf.py
 # Citation
 If you use these models in your research, please cite:
 
-@article{Zhao2020,
-	author = {Aite Zhao and Junyu Dong and Huiyu Zhou},
-	title = {Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition},
-	journal = {IEEE ACCESS},
-	year = {2020}
-}
+@article{Zhao2020,  
+	author = {Aite Zhao and Junyu Dong and Huiyu Zhou},  
+	title = {Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition},  
+	journal = {IEEE ACCESS},  
+	year = {2020}  
+}  
