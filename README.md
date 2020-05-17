@@ -1,7 +1,7 @@
 # SSRM
 Self-Supervised Sleep Recognition Model
 
-This is the code for the paper in title "Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition", IEEE ACCESS  
+Thus is the source code for the paper entitled "Self-Supervised Learning from Multi-Sensor Data for Sleep Recognition", IEEE ACCESS  
 Authors: Aite Zhao, Junyu Dong and Huiyu Zhou
 
 # Abstract
